@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Robert Kuyper
+N;CHARSET=UTF-8:Kuyper;Robert;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:fulltiltgroup+robert@proton.me
+TEL;TYPE=WORK,VOICE:509-999-2407
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;Coeur d'Alene;Idaho;;
+TITLE;CHARSET=UTF-8:Owner
+ROLE;CHARSET=UTF-8:Rapid Prototype Developer
+ORG;CHARSET=UTF-8:Full Tilt Group LLC
+URL;type=WORK;CHARSET=UTF-8:https://fulltilt.group
+REV:2023-12-20T19:08:15.162Z
+END:VCARD

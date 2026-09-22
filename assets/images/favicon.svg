@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="450pt" height="450pt"><svg width="450pt" height="450pt" fill-rule="evenodd" viewBox="0 0 450 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="289.229" y1="453.61" x2="289.229" y2="818.477" id="SvgjsLinearGradient1001" spreadMethod="pad" gradientTransform="matrix(-0.000568, -1, 0.996758, -0.000567, -345.282709, 926.559737)">
+      <stop offset="0" style=""></stop>
+      <stop offset="0.385" style="stop-color: rgb(58, 51, 33);"></stop>
+      <stop offset="0.659" style="stop-color: rgb(100, 88, 58);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 227, 156);"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="289.229" y1="538.463" x2="289.229" y2="719.482" id="SvgjsLinearGradient1000" spreadMethod="pad" gradientTransform="matrix(-0.007884, -0.999969, 2.037247, -0.016063, -987.545839, 938.256829)">
+      <stop offset="0" style=""></stop>
+      <stop offset="0.38" style="stop-color: rgb(58, 51, 33);"></stop>
+      <stop offset="0.647" style="stop-color: rgb(167, 148, 102);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 227, 156);"></stop>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1.096287, 0, 0, 1.096287, -95.65715, -401.044067)" style="transform-origin: -37.172px 636.043px;">
+    <title>Under</title>
+    <path style="stroke-width: 0.850394; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(0, 0, 0); paint-order: fill; stroke-opacity: 0; fill: rgb(124, 112, 61);" d="M 386.81 634.629 L 386.81 637.458 L 361.354 662.913 L 358.525 662.913 L 347.212 651.6 L 344.383 651.6 L 276.501 719.482 L 273.673 719.482 L 248.217 694.026 L 248.217 691.495 L 248.203 691.481 L 248.203 686.623 L 248.292 686.534 L 248.292 685.047 L 314.475 618.863 L 290.643 595.031 L 287.815 595.031 L 278.2 604.646 L 287.89 614.336 L 287.89 617.164 L 287.801 617.253 L 287.801 620.473 L 287.815 620.487 L 287.815 623.315 L 262.359 648.771 L 259.531 648.771 L 248.217 637.458 L 245.388 637.458 L 219.933 662.913 L 217.104 662.913 L 191.648 637.458 L 191.648 634.927 L 191.634 634.913 L 191.634 630.054 L 191.723 629.965 L 191.723 628.478 L 287.89 532.312 L 290.718 532.312 L 386.885 628.478 L 386.885 631.307 L 386.796 631.396 L 386.796 634.615 Z"></path>
+    <path style="stroke-width: 0.850394; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(0, 0, 0); paint-order: fill; stroke-opacity: 0; fill: rgb(124, 112, 61);" d="M 471.663 637.458 L 432.065 677.056 L 429.236 677.056 L 403.78 651.6 L 403.78 645.486 L 403.778 645.484 L 403.778 642.655 L 413.449 632.984 L 290.643 510.178 L 287.815 510.178 L 165.007 632.987 L 287.813 755.792 L 290.641 755.792 L 328.596 717.837 L 318.928 708.168 L 318.928 702.054 L 318.926 702.052 L 318.926 699.224 L 344.381 673.768 L 347.21 673.768 L 386.808 713.366 L 386.808 714.528 L 386.81 714.53 L 386.81 722.31 L 290.643 818.477 L 287.815 818.477 L 106.795 637.458 L 106.795 631.344 L 106.793 631.342 L 106.793 628.513 L 287.813 447.494 L 290.641 447.494 L 471.661 628.513 L 471.661 629.675 L 471.663 629.677 Z"></path>
+  </g>
+  <g transform="matrix(1.096287, 0, 0, 1.096287, -83.99073, -430.805756)" style="transform-origin: 83.9907px 430.806px;">
+    <title>Over</title>
+    <path style="stroke-width: 0.850394; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(183, 183, 183); fill: url(#gradient-2); paint-order: fill; fill-rule: evenodd;" d="M 106.795 634.629L 106.795 637.458L 287.815 818.477L 290.643 818.477L 386.81 722.31L 386.81 719.482L 347.212 679.884L 344.383 679.884L 318.928 705.34L 318.928 708.168L 330.241 719.482L 330.241 722.31L 290.643 761.908L 287.815 761.908L 163.364 637.458L 163.364 634.629L 287.815 510.178L 290.643 510.178L 415.094 634.629L 415.094 637.458L 403.78 648.771L 403.78 651.6L 429.236 677.056L 432.065 677.056L 471.663 637.458L 471.663 634.629L 290.643 453.61L 287.815 453.61L 106.795 634.629z"></path>
+    <path style="stroke-width: 0.850394; stroke-linejoin: round; stroke-linecap: round; stroke: rgb(183, 183, 183); fill: url(#gradient-3); paint-order: fill; fill-rule: evenodd;" d="M 290.643 538.463L 287.815 538.463L 191.648 634.629L 191.648 637.458L 217.104 662.913L 219.933 662.913L 245.388 637.458L 248.217 637.458L 259.531 648.771L 262.359 648.771L 287.815 623.315L 287.815 620.487L 276.501 609.173L 276.501 606.345L 287.815 595.031L 290.643 595.031L 316.099 620.487L 316.099 623.315L 248.217 691.198L 248.217 694.026L 273.673 719.482L 276.501 719.482L 344.383 651.6L 347.212 651.6L 358.525 662.913L 361.354 662.913L 386.81 637.458L 386.81 634.629L 290.643 538.463z"></path>
+  </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+</style></svg>
